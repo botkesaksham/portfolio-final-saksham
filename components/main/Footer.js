@@ -6,10 +6,10 @@ function Footer() {
   return (
     <>
     <div className=' bg-[#010b19] flex justify-between items-center h-[60px] md:mt-0 mt-56'>
-       <div>
+       {/* <div>
         <a href="#about"><img src={img} className='h-[40px] w-[40px] ml-10' alt='cat' /></a>
        
-       </div>
+       </div> */}
 
        <div className='text-white text-center ml-20 font-semibold'>
             <h1>Made with Love 🐾 <span className=' text-gray-500 mr-3 text-[13px]'>By Saksham Botke</span></h1>
