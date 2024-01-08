@@ -23,7 +23,7 @@ function Footer() {
             <Image
               src={social.src}
               alt={social.name}
-              key={social.name}
+              key={social.key}
               width={20}
               height={20}
             />
