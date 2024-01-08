@@ -9,14 +9,14 @@ export default function About() {
       <div className='relative md:w-full md:justify-center md:h-full md:flex md:pt-0 md:flex-row text-white w-full p-14'>
         <div className='md:w-80 md:flex md:flex-col z-30'> 
           <h1 className='md:text-4xl md:text-left md:pt-16 font-bold text-[2rem] text-gray-400'>Hi, my name is</h1>
-          <h1 className='md:text-[95px] md:text-left md:pt-5 text-[3rem] leading-[45px] pt-4 text-[4rem] font-semibold md:pb-24 md:leading-[100px]'>SAKSHAM BOTKE</h1>
+          <h1 className='md:text-[95px] md:text-left md:pt-5 text-[3rem] leading-[45px] pt-4 font-semibold md:pb-24 md:leading-[100px]'>SAKSHAM BOTKE</h1>
         </div>
 
         <div>
           <Image
             src={img}
             alt="logo"
-            className="md:pt-8 md:pb-0 md:w-[600px] md:h-[500px] md:pb-0 pt-7 pb-12"
+            className="md:pt-8 md:pb-0 md:w-[600px] md:h-[500px] pt-7 pb-12"
           />
         </div>
 
