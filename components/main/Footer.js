@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 import img from "@/public/cat.svg"
 import { Socials } from '@/constants'
 
@@ -8,7 +7,7 @@ function Footer() {
     <>
     <div className=' bg-[#010b19] flex justify-between items-center h-[60px] md:mt-0 mt-56'>
        <div>
-        <a href="#about"><Image src={img} className='h-[40px] w-[40px] ml-10' alt='cat' /></a>
+        <a href="#about"><img src={img} className='h-[40px] w-[40px] ml-10' alt='cat' /></a>
        
        </div>
 
@@ -20,10 +19,10 @@ function Footer() {
        <div className="flex md:flex-row gap-5 mr-10">
           {Socials.map((social) => (
             <a href={social.WebUrl} target="_blank" rel="noopener noreferrer">
-            <Image
+            <img
+              key={social.key}
               src={social.src}
               alt={social.name}
-              key={social.key}
               width={20}
               height={20}
             />
