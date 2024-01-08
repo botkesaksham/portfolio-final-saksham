@@ -64,21 +64,25 @@ export const Skill_data = [
   
   export const Socials = [
     {
+      id:1,
       name: "linkedin",
       src: "/linkedin.svg",
       WebUrl:"https://www.linkedin.com/in/sakshambotke/"
     },
     {
+      id:2,
       name: "github",
       src: "/github.svg",
       WebUrl:"https://github.com/botkesaksham"
     },
     {
+      id:3,
       name: "twiter",
       src: "/twitter.svg",
       WebUrl:"https://twitter.com/SakshamBotke"
     },
     {
+      id:4,
       name: "Instagram",
       src: "/instagram.svg",
       WebUrl:"https://www.instagram.com/__saksham09_?igsh=ODA1NTc5OTg5Nw=="
