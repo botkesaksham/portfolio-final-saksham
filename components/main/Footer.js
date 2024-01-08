@@ -1,5 +1,6 @@
 import React from 'react';
 import img from '@/public/cat.svg';
+import Image from 'next/image';
 import { Socials } from '@/constants';
 
 function Footer() {
@@ -8,7 +9,7 @@ function Footer() {
       <div className=' bg-[#010b19] flex justify-between items-center h-[60px] md:mt-0 mt-56'>
         <div>
           <a href="#about">
-            <img src={img} className='h-[40px] w-[40px] ml-10' alt='cat' />
+            <Image src={img} className='h-[40px] w-[40px] ml-10' alt='cat' />
           </a>
         </div>
 
