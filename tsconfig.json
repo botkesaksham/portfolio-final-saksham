@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/main/About.jsx", "components/main/Contact.jsx", "components/sub/Earth.jsx", "constants/index.js", "components/main/Projects.jsx", "components/main/Experience.jsx", "components/main/card.jsx", "components/main/Footer.js"],
   "exclude": ["node_modules"]
 }

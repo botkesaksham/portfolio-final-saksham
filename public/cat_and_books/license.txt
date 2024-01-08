@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat and books
+* source:	https://sketchfab.com/3d-models/cat-and-books-e460f285564f44e39a045ece018a446f
+* author:	Veksell (https://sketchfab.com/Veksell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat and books" (https://sketchfab.com/3d-models/cat-and-books-e460f285564f44e39a045ece018a446f) by Veksell (https://sketchfab.com/Veksell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
