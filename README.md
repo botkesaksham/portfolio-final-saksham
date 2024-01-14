@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="https://sakshambotke-portfolio.vercel.app/">
+    <img alt = "Image" src = "/prototype.png">
+  </a>
+</p>
+<h1 align="center" >Portfolio Panorama</h1>
+<p align="center">
+  <a href="https://sakshambotke-portfolio.vercel.app/">
+    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+  </a>
+  
+</p>
 
-## Getting Started
+👋 Hello there! I'm Saksham Botke, a pre-final Engineering student with a burning passion for Web Development and a keen eye for the ever-evolving world of technology. As I gear up to transition into the professional realm of Information Technology, I'm thrilled to showcase my journey through a lens of creativity and innovation.
 
-First, run the development server:
+Explore My Portfolio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br>
+<a href="https://sakshambotke-portfolio.vercel.app/"><img alt = "Img2" src ="/ss.png"></a>
+<br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<a href="https://sakshambotke-portfolio.vercel.app/">Deployed Website</a>    
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📞 Contact Me
+feel free to reach out to me. Your questions and feedback are always welcome!
+<br>
 
-## Learn More
+<a href="https://linktr.ee/sakshambotke"> Saksham Botke </a> <br>
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
