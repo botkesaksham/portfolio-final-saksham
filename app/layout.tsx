@@ -4,7 +4,6 @@ import './globals.css'
 import Stars from '@/components/sub/Stars'
 import Navbar from '@/components/main/Navbar'
 import Footer from '@/components/main/Footer'
-import Head from 'next/head'
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -21,9 +20,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Head>
-        <link rel="icon" href="/saksham_fav.jpg" />
-      </Head>
       <body className={`${inter.className} bg-[#030014] overflow-y-scroll overflow-x-hidden`}>
         <Navbar/>
         <Stars/>
