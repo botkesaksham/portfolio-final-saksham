@@ -22,9 +22,6 @@
 <a href="https://sakshambotke-portfolio.vercel.app/"><img alt = "Img2" src ="./public/ss.png"></a>
 <br>
 
-<a href="https://sakshambotke-portfolio.vercel.app/">Deployed Website</a>    
-
-
 ## 📞 Contact Me
 feel free to reach out to me. Your questions and feedback are always welcome!
 <br>
