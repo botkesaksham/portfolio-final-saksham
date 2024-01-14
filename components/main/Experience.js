@@ -1,11 +1,11 @@
 "use client";
 import { experiences } from "@/constants";
 import { VerticalTimeline } from "react-vertical-timeline-component";
-import Card from "@/components/main/Card";
+import Card from "@/components/sub/Card";
 export default function Experience() {
   return (
     <div id="experience" className="md:w-full ml-5 mr-5 ">
-    <h1 className="text-[40px] text-center font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
+    <h1 className="text-[40px] text-center font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20 pb-0">
         My Experience
     </h1>
     <section

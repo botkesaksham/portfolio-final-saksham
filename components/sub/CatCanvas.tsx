@@ -11,7 +11,7 @@ const Model = () => {
   return <primitive object={gltf.scene} scale={0.16} />;
 };
 
-export default function EarthCanvas() {
+export default function CatCanvas() {
   return (
     <div style={{ width: '600px', height: '500px'}}>
       <Canvas

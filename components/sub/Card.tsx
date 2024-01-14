@@ -11,18 +11,20 @@ export default function Card({ item }) {
     <div ref={ref} className="vertical-timeline-element">
       <VerticalTimelineElement
         date={item.date}
+        contentStyle={{ background: '#051427', color: '#fff' }}
+        contentArrowStyle={{ borderRight: '10px solid #051427' }}
         icon={<div className='flex justify-center items-center w-full h-full'>
         <img
           src={item.icon}
           alt={item.company_name}
-          className='w-[60%] h-[60%] object-contain bg-black'
+          className='w-[80%] h-[80%] object-contain bg-transparent'
         />
       </div>}
         iconStyle={{background:"#000"}}
         visible={inView}
       >
         <div>
-                  <h3 className="text-black text-xl font-poppins font-semibold">
+                  <h3 className=" text-purple-500 text-xl font-poppins font-semibold">
                     {item.title}
                   </h3>
                   <p className="text-black-500 font-medium text-base">
@@ -34,7 +36,7 @@ export default function Card({ item }) {
                   {item.points.map((point, index) => (
                     <li
                       key={`experience-point-${index}`}
-                      className="text-black-500/50 font-normal pl-1 text-sm"
+                      className="text-black-500/50 pl-1 text-sm font-medium"
                     >
                       {point}
                     </li>

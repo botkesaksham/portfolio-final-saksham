@@ -2,7 +2,6 @@ import Skills from '@/components/main/Skills'
 import Projects from '@/components/main/Projects'
 import Contact from '@/components/main/Contact'
 import Experience from "@/components/main/Experience"
-import Footer from '@/components/main/Footer'
 import About from '@/components/main/About'
 
 export default function Home() {
@@ -14,7 +13,6 @@ export default function Home() {
           <Skills/>
           <Projects/>
           <Contact/>
-          <Footer/>
       </div>
    </main>
    
