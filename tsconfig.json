@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/main/About.ts", "components/main/Contact.jsx", "components/sub/Earth.jsx", "constants/index.js", "components/main/Projects.jsx", "components/main/Experience.jsx", "components/main/card.jsx", "components/main/Footer.js", "components/sub/ProjectCard.js", "components/sub/SkillMotion.js", "components/sub/EarthCanvas.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/main/About.ts", "components/main/Contact.jsx", "components/sub/Earth.jsx", "constants/index.js", "components/main/Projects.jsx", "components/main/Experience.jsx", "components/main/card.jsx", "components/main/Footer.js", "components/sub/ProjectCard.tsx", "components/sub/SkillMotion.js", "components/sub/EarthCanvas.js", "components/sub/CatCanvas.js", "components/sub/Card.js"],
   "exclude": ["node_modules"]
 }
