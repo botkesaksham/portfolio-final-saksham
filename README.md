@@ -16,7 +16,7 @@
 
 👋 Hello there! I'm Saksham Botke, a pre-final Engineering student with a burning passion for Web Development and a keen eye for the ever-evolving world of technology. As I gear up to transition into the professional realm of Information Technology, I'm thrilled to showcase my journey through a lens of creativity and innovation.
 
-Explore My Portfolio
+<a href="https://sakshambotke-portfolio.vercel.app/">Explore My Portfolio </a>    
 
 <br>
 <a href="https://sakshambotke-portfolio.vercel.app/"><img alt = "Img2" src ="./public/ss.png"></a>
