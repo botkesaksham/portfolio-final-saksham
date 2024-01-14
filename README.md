@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sakshambotke-portfolio.vercel.app/">
-    <img alt = "Image" src = "/prototype.png">
+    <img alt = "Image" src = "C:\Users\botke\OneDrive\Documents\documents\Web Dev\portfolio-final-saksham\public\prototype.png">
   </a>
 </p>
 <h1 align="center" >Portfolio Panorama</h1>
