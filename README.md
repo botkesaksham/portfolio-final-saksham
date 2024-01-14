@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sakshambotke-portfolio.vercel.app/">
-    <img alt = "Image" src = "C:\Users\botke\OneDrive\Documents\documents\Web Dev\portfolio-final-saksham\public\prototype.png">
+    <img alt = "Image" src = "./public/prototype.png">
   </a>
 </p>
 <h1 align="center" >Portfolio Panorama</h1>
@@ -19,7 +19,7 @@
 Explore My Portfolio
 
 <br>
-<a href="https://sakshambotke-portfolio.vercel.app/"><img alt = "Img2" src ="/ss.png"></a>
+<a href="https://sakshambotke-portfolio.vercel.app/"><img alt = "Img2" src ="./public/ss.png"></a>
 <br>
 
 <a href="https://sakshambotke-portfolio.vercel.app/">Deployed Website</a>    
