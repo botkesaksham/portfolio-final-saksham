@@ -83,7 +83,7 @@ export const Contact = () => {
                   rows={7}
                   name='message'
                   placeholder='What you want to say?'
-                  className='bg-tertiary py-4 px-6 placeholder:text-secondary text-black rounded-lg outline-none border-none font-medium'
+                  className='bg-tertiary py-4 px-6 placeholder:text-secondary text-black rounded-lg outline-none border-none font-medium scrollbar-thin scrollbar-thumb-black'
                 />
               </label>
 
