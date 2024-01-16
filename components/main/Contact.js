@@ -44,7 +44,7 @@ export const Contact = () => {
   };
 
   return (
-    <div id="contact" className='pb-20'>
+    <div id="contact" className='pb-20 mb-8'>
       <h1 className="text-[40px] text-center font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 md:py-20 md:pb-20 pb-80">
         Contact Me
       </h1>
