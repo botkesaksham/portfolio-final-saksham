@@ -47,7 +47,7 @@ export default function About() {
           <Image
             src={img}
             alt="logo"
-            className="md:pt-8 md:pb-0 md:w-[600px] md:h-[500px] pt-7 pb-12"
+            className="md:pt-8 md:pb-0 md:w-[650px] md:h-[550px] pt-7 pb-12"
           />
         </motion.div>
 
