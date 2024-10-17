@@ -58,7 +58,7 @@ export default function About() {
           <div className="w-[3px] md:h-[320px] h-[370px] bg-white"></div>
           <div className="pl-5">
             <p className="text-justify font-thin pt-5">
-              I'm a pre-final Engineering student who is passionate about Web Development and has a keen interest in the ever-evolving world of technology. Soon to be an Information Technology professional with a Bachelor of Technology from SRM University. Let's connect to explore the dynamic world of tech and design together!
+              I'm a final Engineering student who is passionate about Web Development and has a keen interest in the ever-evolving world of technology. Soon to be an Information Technology professional with a Bachelor of Technology from SRM University. Let's connect to explore the dynamic world of tech and design together!
             </p>
             <div className="flex flex-row gap-5 pt-5">
               {Socials.map((social, index) => (
